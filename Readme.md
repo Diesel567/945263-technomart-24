@@ -1,8 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Андрей Горкун](https://up.htmlacademy.ru/htmlcss/24/user/945263).
-* Наставник: [Игорь Плиев]
-(https://htmlacademy.ru/profile/id233017).
+* Наставник: [Игорь Плиев](https://htmlacademy.ru/profile/id233017).
 
 ---
 
